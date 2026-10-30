@@ -49,7 +49,9 @@ Icons: `Yaru-magenta`
 
 ## Backgrounds credits
 
-- `ChatGPT Image Oct 16, 2026, 02_35_02 PM-1.png`: AI-generated with ChatGPT (OpenAI) image generation, Oct 16 2026, by Cory Blische (inferred from filename; confirm before submitting to the gallery)
+- `ChatGPT Image Oct 16, 2026, 02_35_02 PM-1.png`: AI-generated with ChatGPT by Cory Blische, Oct 16 2026.
+
+The background images are released under the same MIT license as the rest of this theme.
 
 ## License
 

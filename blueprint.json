@@ -19,13 +19,14 @@
       "#c5aaff",
       "#ffe4b7"
     ],
-    "wallpaper": "/home/cory/Wallpapers/holodeck/ChatGPT Image Oct 16, 2026, 02_35_02 PM-1.png",
+    "wallpaper": "",
     "extendedColors": {
       "accent": "#797ad8",
       "cursor": "#f2e1d0",
       "selection_background": "#f2e1d0",
       "selection_foreground": "#080201"
-    }
+    },
+    "wallpaperUrl": "https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-sunset-theme/main/backgrounds/ChatGPT%20Image%20Oct%2016%2C%202026%2C%2002_35_02%20PM-1.png"
   },
   "adjustments": {
     "blackPoint": 0,
