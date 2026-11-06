@@ -49,7 +49,7 @@ Icons: `Yaru-magenta`
 
 ## Backgrounds credits
 
-- `ChatGPT Image Oct 16, 2026, 02_35_02 PM-1.webp`: AI-generated with ChatGPT by Cory Blische, Oct 16 2026.
+- `1-autumn-river-sunset.webp`: AI-generated with ChatGPT by Cory Blische, Oct 16 2026.
 
 The background images are released under the same MIT license as the rest of this theme.
 
