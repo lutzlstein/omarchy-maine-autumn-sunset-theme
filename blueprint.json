@@ -2,29 +2,29 @@
   "name": "Maine Autumn Sunset",
   "palette": {
     "colors": [
-      "#080201",
-      "#d64a34",
-      "#007022",
-      "#f17f00",
-      "#797ad8",
-      "#b767b2",
-      "#9d8aeb",
-      "#f2e1d0",
-      "#69625f",
-      "#ff6a4c",
-      "#459d40",
-      "#ffa200",
-      "#9e9aff",
-      "#e485e4",
-      "#c5aaff",
-      "#ffe4b7"
+      "#0e0502",
+      "#c15a3c",
+      "#3d8c50",
+      "#d48460",
+      "#36a3c8",
+      "#f48737",
+      "#00b0f4",
+      "#e7d3ca",
+      "#625c58",
+      "#f07b53",
+      "#57b76d",
+      "#ffa778",
+      "#56caf9",
+      "#ffa83b",
+      "#39d6ff",
+      "#ffd9be"
     ],
     "wallpaper": "",
     "extendedColors": {
-      "accent": "#797ad8",
-      "cursor": "#f2e1d0",
-      "selection_background": "#f2e1d0",
-      "selection_foreground": "#080201"
+      "accent": "#C15A3C",
+      "cursor": "#e7d3ca",
+      "selection_background": "#502319",
+      "selection_foreground": "#D48460"
     },
     "wallpaperUrl": "https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-sunset-theme/main/backgrounds/ChatGPT%20Image%20Oct%2016%2C%202026%2C%2002_35_02%20PM-1.png"
   },
@@ -43,5 +43,5 @@
     "whitePoint": 0
   },
   "settings": {},
-  "timestamp": 1792439288685
+  "timestamp": 1793979231158
 }
