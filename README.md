@@ -2,6 +2,13 @@
 
 ![Maine Autumn Sunset preview](preview.jpg)
 
+## Backgrounds
+
+| | | |
+|---|---|---|
+| <a href="backgrounds/1-autumn-river-sunset.webp"><img src="backgrounds/1-autumn-river-sunset.webp" alt="1-autumn-river-sunset.webp" width="260"></a><br><sub>Original source</sub> | <a href="backgrounds/2-pattern-abstraction-fractal-use-theme.webp"><img src="backgrounds/2-pattern-abstraction-fractal-use-theme.webp" alt="2-pattern-abstraction-fractal-use-theme.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/3-maine-coastal-islands.webp"><img src="backgrounds/3-maine-coastal-islands.webp" alt="3-maine-coastal-islands.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
+| <a href="backgrounds/4-interior-forest-trail-through-small.webp"><img src="backgrounds/4-interior-forest-trail-through-small.webp" alt="4-interior-forest-trail-through-small.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/5-bauhaus.webp"><img src="backgrounds/5-bauhaus.webp" alt="5-bauhaus.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/6-add-rundown-cabin-hill.webp"><img src="backgrounds/6-add-rundown-cabin-hill.webp" alt="6-add-rundown-cabin-hill.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
+
 ## Install
 
 ```
@@ -46,13 +53,6 @@ aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-m
 | bright_magenta | `#ffa83b` | ![](https://placehold.co/24x24/ffa83b/ffa83b.png) |
 
 Icons: `Yaru-magenta`
-
-## Backgrounds
-
-| | | |
-|---|---|---|
-| <a href="backgrounds/1-autumn-river-sunset.webp"><img src="backgrounds/1-autumn-river-sunset.webp" alt="1-autumn-river-sunset.webp" width="260"></a><br><sub>Original source</sub> | <a href="backgrounds/2-pattern-abstraction-fractal-use-theme.webp"><img src="backgrounds/2-pattern-abstraction-fractal-use-theme.webp" alt="2-pattern-abstraction-fractal-use-theme.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/3-maine-coastal-islands.webp"><img src="backgrounds/3-maine-coastal-islands.webp" alt="3-maine-coastal-islands.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
-| <a href="backgrounds/4-interior-forest-trail-through-small.webp"><img src="backgrounds/4-interior-forest-trail-through-small.webp" alt="4-interior-forest-trail-through-small.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/5-bauhaus.webp"><img src="backgrounds/5-bauhaus.webp" alt="5-bauhaus.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/6-add-rundown-cabin-hill.webp"><img src="backgrounds/6-add-rundown-cabin-hill.webp" alt="6-add-rundown-cabin-hill.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
 
 ## Backgrounds credits
 
